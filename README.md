@@ -8,3 +8,13 @@
 
 
 `NEU graduaction T_Shirt design needs your IDEA!`
+
+### Example 
+
+![](./ver2.png)
+
+![](./ver3.png)
+
+![](./ver4.png)
+
+![](./ver5.png)
