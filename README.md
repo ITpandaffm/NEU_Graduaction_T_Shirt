@@ -1,0 +1,2 @@
+# NEU_Graduaction_T_Shirt
+东北大学2014届软件学院毕业文化衫设计，欢迎Idea
